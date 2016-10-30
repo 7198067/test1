@@ -21,6 +21,7 @@ and open the template in the editor.
     <body>
         <div id="result">
             Nội dung ajax sẽ được load ở đây
+			moi chinh sua
         </div>
         <br/>
         <input type="text" value="" id="number"/>
